@@ -18,9 +18,9 @@ choco install $pkg
 ```
 
 pkgs:
-    - gh
-    - oh-my-posh
-    - poshgit
+- gh
+- oh-my-posh
+- poshgit
 
 ### Missing Fonts
 

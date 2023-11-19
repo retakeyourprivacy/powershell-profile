@@ -1,4 +1,4 @@
-# Powershell Profile
+# PowerShell Profile
 
 Originally Tim Sneath's profile. Modified by Chris Titus - [link to his repo](https://github.com/ChrisTitusTech/powershell-profile)
 ## Instructions
